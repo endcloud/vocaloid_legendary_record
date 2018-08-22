@@ -1,1 +1,2 @@
-# vocaloid_legendary_record
+#用于监控中V播放量90万以上曲目传说的进度#
+##仅适用于B站中V的统计##
